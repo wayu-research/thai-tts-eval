@@ -1,0 +1,23 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright 2026 Kunat Pipatanakul
+
+This work — the benchmark item sets under keyword/data/ and pause/data/, their
+documentation, and the harnesses that score them — is licensed under the
+Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt the material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full license text:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary:
+  https://creativecommons.org/licenses/by/4.0/
+
+Portions of the keyword harness — the item schema, the Thai canonicalizer and
+the exact-substring matcher — derive from th01-tts-eval
+(https://github.com/potsawee/th01-tts-eval), whose 50-item pilot seeded the
+keyword set.
+
+No audio is redistributed with this work.

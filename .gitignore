@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Credentials — never commit
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets.*
+.hf_token
+.huggingface/
+.netrc
+
+# Renders under test: no audio is redistributed by this repo
+audio/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.opus
+*.m4a
+*.aac
+
+# Harness output: dumped texts, transcripts, alignment sidecars, scored runs
+runs/
+texts.tsv
+transcripts.json
+results.csv
+metrics.json
+compare.json
+/summary.md
+sidecars/
+
+# Recognizers/aligners cached locally by `transcribe` and `align`
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+models/
+checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
