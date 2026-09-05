@@ -84,6 +84,22 @@ Read the rows together, not as a ranking. Gemini has the highest precision *and*
 five times more often than the student; the student's low PPER comes partly from phrasing
 well and partly from barely phrasing at all. Precision alone would flatter it.
 
+## Citation
+
+If you use this benchmark, cite the paper it comes from.
+
+```bibtex
+@misc{pipatanakul2026buildingevaluatingfixedvoicethai,
+      title={Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech}, 
+      author={Kunat Pipatanakul and Potsawee Manakul and Warit Sirichotedumrong and Sittipong Sripaisarnmongkol and Pakorn Nathong and Phatrasek Jirabovonvisut},
+      year={2026},
+      eprint={2609.03502},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.03502}, 
+}
+```
+
 ## License
 
 > **Research artifact**, released for reproducibility and further research — not a

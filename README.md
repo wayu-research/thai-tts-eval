@@ -86,6 +86,22 @@ presented as a certification or endorsement of any system.
 The sentences were LLM-assisted in authoring and carry no guarantee of factual accuracy;
 they are synthesis prompts, not statements of fact. No audio is redistributed.
 
+## Citation
+
+Both benchmarks come from the same technical report — cite it if you use either.
+
+```bibtex
+@misc{pipatanakul2026buildingevaluatingfixedvoicethai,
+      title={Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech}, 
+      author={Kunat Pipatanakul and Potsawee Manakul and Warit Sirichotedumrong and Sittipong Sripaisarnmongkol and Pakorn Nathong and Phatrasek Jirabovonvisut},
+      year={2026},
+      eprint={2609.03502},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.03502}, 
+}
+```
+
 ## License
 
 **CC-BY-4.0.** Gold corrections are very welcome — open an issue or a pull request.
